@@ -6,9 +6,9 @@
 
 👨‍💻 My interests include Software development, Web Development.
 
-🐍 Knowledgeable in Java, C, HTML, CSS and familiar with C++, JavaScript, Python, and Git.
+🐍 Knowledgeable in Java, C, CSS, HTML and familiar with C++, JavaScript, Python, and Git.
 
-💞️ Passionate about software development, Problem Solving, Building PCs, and music production.
+💞️ Passionate about software development, problem solving, building PCs, and music production.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-estrella-0351a9132) 
