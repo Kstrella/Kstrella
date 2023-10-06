@@ -2,7 +2,7 @@
 <img align="left" alt="Coding" width="70" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"><h1 align="center">Hi 👋, I'm Kevin</h1>
 
 
-🔭 I am a Computer Science student at the University of Florida graduating in Dec 2024
+🔭 I am a Computer Science student at the University of Florida graduating in Dec 2024.
 
 👨‍💻 My interests include Software development, Web Development.
 
