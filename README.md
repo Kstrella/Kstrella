@@ -1,4 +1,4 @@
-![MasterHead](https://imgur.com/a/cajM1fV)
+![MasterHead](https://i.imgur.com/7ZqvcNQ.gif)
 <img align="left" alt="Coding" width="65" src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif"><h1 align="center">Hi 👋, I'm Kevin</h1>
 
 
